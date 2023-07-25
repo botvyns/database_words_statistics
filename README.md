@@ -1,4 +1,6 @@
-## A code to create a database and count some statistics on it.
+# database_words_statistics
+
+A code to create a database and count some statistics on it.
 
 The file to run to get the result is [**words_database.py**](https://github.com/botvyns/database_words-statistics-/blob/main/words_database.py)
 
